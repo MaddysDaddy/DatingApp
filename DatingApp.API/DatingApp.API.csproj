@@ -2,6 +2,9 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
+  <PropertyGroup>
+    <DebugType>portable</DebugType>
+  </PropertyGroup>
   <ItemGroup>
     <Folder Include="wwwroot\"/>
   </ItemGroup>
